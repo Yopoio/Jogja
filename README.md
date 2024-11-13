@@ -9,7 +9,7 @@ Website ini merupakan tugas akhir Dasar Pemrograman Web dari Dicoding Academy ya
 - Detail geografis wilayah
 - Informasi tambahan tentang kota
 
-## 🛠Teknologi yang Digunakan
+## Teknologi yang Digunakan
 - HTML5
 - CSS3
 
